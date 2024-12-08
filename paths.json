@@ -1,8 +1,6 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/aem-edge-editor-hash/:/"
   ],
   "includes": [
     "/content/aem-boilerplate/"
