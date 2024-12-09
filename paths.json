@@ -1,8 +1,5 @@
 {
   "mappings": [
     "/content/aem-edge-editor-hash/:/"
-  ],
-  "includes": [
-    "/content/aem-boilerplate/"
   ]
 }
