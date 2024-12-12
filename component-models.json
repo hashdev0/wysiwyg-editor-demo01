@@ -201,6 +201,28 @@
         "valueType": "string",
         "label": "Author",
         "value": ""
+      },
+      {
+        "component": "select",
+        "name": "classes",
+        "value": "",
+        "label": "Background Color",
+        "description": "The Quote background color",
+        "valueType": "string",
+        "options" : [
+          {
+            "name": "Red",
+            "value": "bg-red"
+          },
+          {
+            "name": "Blue",
+            "value": "bg-blue"
+          },
+          {
+            "name": "Yellow",
+            "value": "bg-yellow"
+          }
+        ]
       }
     ]
   }
