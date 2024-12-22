@@ -101,13 +101,25 @@
       {
         "component": "multiselect",
         "name": "style",
+        "value": "",
         "label": "Style",
         "options": [
+          {
+            "name": "Fade in Background",
+            "value": "fade-in"
+          },
           {
             "name": "Highlight",
             "value": "highlight"
           }
         ]
+      }, 
+      {
+        "component": "reference",
+        "name": "background",
+        "valueType": "string",
+        "label": "Image",
+        "multi": false
       }
     ]
   },
