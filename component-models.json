@@ -237,15 +237,5 @@
         ]
       }
     ]
-  },
-  {
-    "id": "tab",
-    "fields": [
-      {
-        "component": "text",
-        "name": "description",
-        "label": "Description"
-      }
-    ]
   }
 ]
