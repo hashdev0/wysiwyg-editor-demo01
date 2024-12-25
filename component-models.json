@@ -198,6 +198,16 @@
     ]
   },
   {
+    "id": "page-metadata",
+    "fields": [
+      {
+        "component": "text",
+        "name": "theme",
+        "label": "Theme"
+      }
+    ]
+  },
+  {
     "id": "quote",
     "fields": [
       {
